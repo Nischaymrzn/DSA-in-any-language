@@ -21,7 +21,7 @@ Before you make any changes, create a new branch for your contribution:
 ```git checkout -b your-branch-name```
 
 ### 4. Solve a DSA Problem<br>
-Choose a Data Structures and Algorithms problem from the [issues](https://github.com/Saloni6111/DSA_Problems-Hacktoberfest-24/issues) page, or solve any of the DSA questions listed in the repository.
+Choose a Data Structures and Algorithms problem from the [issues](https://github.com/subin-shk/DSA-in-any-language/issues) page, or solve any of the DSA questions listed in the repository.
 
 ### 5. Follow the Code Guidelines
 Please ensure that your code follows these guidelines:
@@ -65,10 +65,10 @@ Once your pull request is approved, it will be merged into the main branch, and 
  └── JavaScript/
 ```
 
-Each language has its own folder. Please place your solution in the appropriate folder.
+Each language should have its own folder. Please place your solution in the appropriate folder or make one if there is no folder.
 
 ### Issue Reporting
-If you find a bug or want to suggest an improvement, feel free to open an [issue](https://github.com/Saloni6111/DSA_Problems-Hacktoberfest-24/issues) here. We’ll try to address them as soon as possible.
+If you find a bug or want to suggest an improvement, feel free to open an [issue](https://github.com/subin-shk/DSA-in-any-language/issues) here. We’ll try to address them as soon as possible.
 
 ### Hacktoberfest
 This repository is participating in Hacktoberfest 2024! Make sure your pull requests follow [Hacktoberfest's official rules](https://hacktoberfest.com/). Remember, only meaningful contributions will be accepted for the event.
