@@ -33,16 +33,6 @@ Please ensure that your code follows these guidelines:
   Use meaningful names for the files like `problem-name.ext`. For example:
   - `two-sum.py`
   - `reverse-linkedlist.cpp`
-  
-- **Comments:**  
-  Add comments in your code to explain the logic, especially for tricky parts. This will help others understand your thought process and make reviewing your code easier.
-
-- **Test Cases:**  
-  Ensure your solution covers edge cases and provide relevant test cases within the code comments. Example:
-
-  ```python
-  # Test case 1: [1, 2, 3], target = 5
-  # Expected output: [1, 2]
 
 ### 6. Make a Pull Request
   Once you’ve committed your changes, push the branch to your forked repository and open a pull request:
