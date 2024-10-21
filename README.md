@@ -15,6 +15,12 @@ Once you have forked the repository, clone it to your local machine:
 
 ```git clone https://github.com/subin-shk/DSA-in-any-language.git```
 
+```bash
+ cd DSA-in-any-language
+```
+
+
+
 ### 3. Create a Branch
 Before you make any changes, create a new branch for your contribution:
 
@@ -34,15 +40,17 @@ Please ensure that your code follows these guidelines:
   - `two-sum.py`
   - `reverse-linkedlist.cpp`
 
-### 6. Make a Pull Request
-  Once you’ve committed your changes, push the branch to your forked repository and open a pull request:
 
-```git push origin your-branch-name```
- 
- Go to the original repository on GitHub and click “New Pull Request.”
-
-### 7. Get Merged!
-Once your pull request is approved, it will be merged into the main branch, and you’ll officially be a contributor!
+### 6.Commit Your Changes:
+Write clear and descriptive commit messages. Your commit messages should be short and concise, summarizing the changes.
+```bash
+git commit -m "Add feature or fix description"
+```
+### 7.Push to Your Fork:
+```bash
+git push origin feature-branch-name
+```
+### 8.Submit a Pull Request: Open a pull request from your fork to the original repository with a clear description.
 
 ---
 
